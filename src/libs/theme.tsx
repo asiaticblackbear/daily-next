@@ -4,10 +4,10 @@ import {colors} from "@styles/colorPalette";
 export const theme = createTheme({
     palette: {
         primary: {
-            main: "#0C2B80",
+            main: "#ffffff",
         },
         secondary:{
-            main: "#165aaa",
+            main: "#5b9bc7",
         }
     },
 });
