@@ -37,7 +37,6 @@ function TemporaryDrawer({isOpen, onClose}: TemporaryDrawerProps) {
 
     const list = (anchor: Anchor) => (
         <Box
-            sx={250}
             role="presentation"
             onClick={toggleDrawer(anchor, false)}
             onKeyDown={toggleDrawer(anchor, false)}

@@ -1,5 +1,4 @@
 import { createTheme } from '@mui/material/styles';
-import {colors} from "@styles/colorPalette";
 
 export const theme = createTheme({
     palette: {
@@ -11,3 +10,4 @@ export const theme = createTheme({
         }
     },
 });
+

@@ -1,9 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { Dialog } from '@headlessui/react'
-import Image from "next/image";
-import AppBar from "./componets/AppBar";
+import AppBar from "./componets/Appbar";
 import Drawable from "./componets/Drawable"
 import * as React from "react";
 
